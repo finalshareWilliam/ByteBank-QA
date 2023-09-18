@@ -27,13 +27,6 @@
 }
 
 .link:hover {
-  color: #47a138;
+  color: #000000;
   font-weight: 600;
-}
-
-.linkAtivo {
-  color: #47a138;
-  font-weight: 600;
-  cursor: pointer;
-  text-decoration: none;
 }
